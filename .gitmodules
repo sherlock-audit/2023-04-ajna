@@ -16,3 +16,9 @@
 [submodule "ajna-core/lib/clones-with-immutable-args"]
 	path = ajna-core/lib/clones-with-immutable-args
 	url = https://github.com/wighawag/clones-with-immutable-args.git
+[submodule "ajna-grants/lib/forge-std"]
+	path = ajna-grants/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "ajna-grants/lib/openzeppelin-contracts"]
+	path = ajna-grants/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
