@@ -73,4 +73,10 @@ ___
 
 # Audit scope
 
+[ajna-grants @ 65d52ce52039577b1cfefc76cbbf0030a87f4845](https://github.com/ajna-finance/ajna-grants/tree/65d52ce52039577b1cfefc76cbbf0030a87f4845)
+- [ajna-grants/src/grants/GrantFund.sol](ajna-grants/src/grants/GrantFund.sol)
+- [ajna-grants/src/grants/base/storage.sol](ajna-grants/src/grants/base/storage.sol)
+
+
+[ajna-core @ e3632f6d0b196fb1bf1e59c05fb85daf357f2386](https://github.com/ajna-finance/ajna-core/tree/e3632f6d0b196fb1bf1e59c05fb85daf357f2386)
 
