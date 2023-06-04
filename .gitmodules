@@ -7,9 +7,6 @@
 [submodule "ajna-core/lib/prb-math"]
 	path = ajna-core/lib/prb-math
 	url = https://github.com/paulrberg/prb-math
-[submodule "ajna-core/base64"]
-	path = ajna-core/base64
-	url = https://github.com/Brechtpd/base64
 [submodule "ajna-core/lib/base64"]
 	path = ajna-core/lib/base64
 	url = https://github.com/Brechtpd/base64
