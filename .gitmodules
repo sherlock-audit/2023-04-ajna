@@ -1,0 +1,18 @@
+[submodule "ajna-core/lib/forge-std"]
+	path = ajna-core/lib/forge-std
+	url = https://github.com/brockelmore/forge-std
+[submodule "ajna-core/lib/openzeppelin-contracts"]
+	path = ajna-core/lib/openzeppelin-contracts
+	url = https://github.com/openzeppelin/openzeppelin-contracts
+[submodule "ajna-core/lib/prb-math"]
+	path = ajna-core/lib/prb-math
+	url = https://github.com/paulrberg/prb-math
+[submodule "ajna-core/base64"]
+	path = ajna-core/base64
+	url = https://github.com/Brechtpd/base64
+[submodule "ajna-core/lib/base64"]
+	path = ajna-core/lib/base64
+	url = https://github.com/Brechtpd/base64
+[submodule "ajna-core/lib/clones-with-immutable-args"]
+	path = ajna-core/lib/clones-with-immutable-args
+	url = https://github.com/wighawag/clones-with-immutable-args.git
