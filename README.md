@@ -5,6 +5,16 @@
 - Submit findings using the issue page in your private contest repo (label issues as med or high)
 - [Read for more details](https://docs.sherlock.xyz/audits/watsons)
 
+# Resources
+
+- [Twitter](https://mobile.twitter.com/ajnafi)
+- [Website](https://www.ajna.finance/)
+- [Business Logic recording](https://www.youtube.com/watch?v=LoknmCG-0kw)
+- [Whitepaper](https://docsend.com/view/brw647iyuvwh9wj5)
+- [Ajna Technical Spec](https://docsend.com/view/ai74yqgzjp3yydyt)
+- [ELI5](https://docsend.com/view/dqf64s8gfi2p9aqh)
+- [Technical Diagrams](https://docsend.com/view/api44fg49ts2y3ae)
+
 # Q&A
 
 ### Q: On what chains are the smart contracts going to be deployed?
